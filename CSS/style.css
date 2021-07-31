@@ -443,9 +443,9 @@ footer{
     .mititulo{
         font-size: 2rem;
     }
-    .escribimeycontactame{
-        
-    }
+   .nav-footer{
+       display: none;
+   }
 }
 @media (max-width:480px){
     .mipersona{
@@ -457,9 +457,7 @@ footer{
     .contenedoralguien .virgilio2{
         font-size: 1.4rem;
     }
-    .escribimeycontactame{
-        width: 100%;
-    }
+   
 }
 @media (max-width:320px){
     .contenedoralguien .virgilio1{
