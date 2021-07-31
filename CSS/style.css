@@ -188,7 +188,7 @@ nav ul li{
     font-weight: bolder;
 }
 .alguiendijo{
-    width: 100%;
+    
     height: 40em;
     background-color: #FFBD9B;
     border-radius: 35px;
@@ -371,7 +371,7 @@ transition: 0.4s;
     margin: 0.188em;
 }
 footer{
-    width: 100%;
+    
     background-color: #FFBD9B;
     border-radius: 35px;
     border: 1px solid #FFD8CC;
