@@ -425,6 +425,7 @@ footer{
 @media (max-width:1200px){
     .cajacontacto{
         background-color: #FFEEDB;
+        width: 100%;
     }
 }
 @media (max-width:1024px){
