@@ -433,14 +433,15 @@ footer{
 @media (max-width:1200px){
     .cajacontacto{
         background-color: #FFEEDB;
-        /*width: 100%;*/    }
+        width: 100%; 
+       }
 }
 @media (max-width:1024px){
     .presentacion{
         display: block;  
     }
     .escribimeycontactame{
-        /*width: 100%;*/
+        width: 100%;
         flex-direction: column;
     }
 }
