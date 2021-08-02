@@ -480,6 +480,9 @@ footer{
    .tituloescribime{
     font-size: 1.6rem;
     }
+    #iconos-footer-dos{
+        margin: 0 1.10rem;
+    }
 }
 @media (max-width:320px){
     .contenedoralguien .virgilio1{
