@@ -271,6 +271,7 @@ figure{
     width: 50%;
     margin-left: 4em;
     margin-top: 3.125em; 
+    margin-bottom: 5em;
 }
 .tituloescribime{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -359,7 +360,7 @@ transition: 0.4s;
     padding-left: 1.25em;
 }
 .redondeado{
-    width: 25em;
+    width: 80%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 15px;
     height:10em;
@@ -466,7 +467,10 @@ footer{
     .contenedoralguien .virgilio2{
         font-size: 1.4rem;
     }
-   
+   .contactonombre{
+       display: flex;
+       flex-direction: column;
+   }
 }
 @media (max-width:320px){
     .contenedoralguien .virgilio1{
