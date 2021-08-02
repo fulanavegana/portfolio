@@ -275,12 +275,12 @@ figure{
 }
 .tituloescribime{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 2.5rem;
+    font-size: 1.8rem;
     font-weight: bold;
 }
 .titulocontactame{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1.875rem;
+    font-size: 2.5rem;
     font-weight: bold;
 }
 .pcontacto{
@@ -471,6 +471,15 @@ footer{
        display: flex;
        flex-direction: column;
    }
+   .titulocontactame{
+    font-size: 2.3rem;
+    }
+   .pcontacto{
+       font-size:medium ;
+   }
+   .tituloescribime{
+    font-size: 1.6rem;
+    }
 }
 @media (max-width:320px){
     .contenedoralguien .virgilio1{
@@ -482,5 +491,14 @@ footer{
     .cajacontacto{
         width: 100%;
         margin: 0;
+    }
+    .titulocontactame{
+        font-size: 2rem;
+    }
+    .pcontacto{
+        font-size: small;
+    }
+    .tituloescribime{
+        font-size: 1.3rem;
     }
 }
