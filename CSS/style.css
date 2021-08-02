@@ -327,7 +327,7 @@ label{
 }
 .inputnombre{
     border-radius: 20px;
-    width: 13em;
+    width: 90%;
     height: 3em;
     border: 1px solid #FFEEDB;
     padding-left: 1.25em;
@@ -352,7 +352,7 @@ color: #FFEEDB;
 transition: 0.4s;
 }
 .inputemail{
-    width: 28em;
+    width: 75%;
     margin-bottom: 0.625em;
     border-radius: 1.25em;
     height: 3em;
