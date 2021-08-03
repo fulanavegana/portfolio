@@ -419,14 +419,6 @@ footer{
 .niñita{
     color: rgb(218, 18, 18);
 }
-@media (min-width:1200px){
-    .contenedordehabilidades{
-        width: 60%;
-    }
-    .cajasproyectos{
-        width: 80%;
-    }
-}
 @media (min-width: 0px) and (max-width: 1000px) {
     header{
         display: none;
@@ -437,6 +429,11 @@ footer{
         background-color: #FFEEDB;
         width: 100%; 
        }
+}    .contenedordehabilidades{
+    width: 60%;
+    }
+    .cajasproyectos{
+    width: 80%;
 }
 @media (max-width:1024px){
     .presentacion{
