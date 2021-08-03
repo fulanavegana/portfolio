@@ -508,6 +508,9 @@ footer{
         margin: 0 1rem;
     }
     .inputnombre{
-        width: 160%;
+        width: 180%;
+    }
+    .inputemail{
+        width: 175%;
     }
 }
