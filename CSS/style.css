@@ -491,8 +491,8 @@ footer{
     .contenedoralguien .virgilio2{
         font-size: 1.2rem;
     }
-    .cajacontacto{
-        width: 100%;
+    .cajacontactame{
+        min-width: 50%;
         margin: 0;
     }
     .titulocontactame{
@@ -503,5 +503,11 @@ footer{
     }
     .tituloescribime{
         font-size: 1.3rem;
+    }
+    #iconos-footer-dos{
+        margin: 0 1rem;
+    }
+    .inputnombre{
+        width: 160%;
     }
 }
