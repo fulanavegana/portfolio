@@ -453,6 +453,9 @@ footer{
     .mititulo{
         font-size: 2rem;
     }
+    .mitexto{
+        font-size: large;
+    }
    .nav-footer{
        display: none;
    }
@@ -467,18 +470,37 @@ footer{
     .contenedoralguien .virgilio2{
         font-size: 1.4rem;
     }
+    .mititulo{
+        font-size: 1.8rem ;
+    }
+    .mitexto{
+        font-size: medium;
+    }
+    .cajacontactame{
+        min-width: 50%;
+        margin-left: 10px;
+    }
    .contactonombre{
        display: flex;
        flex-direction: column;
    }
    .titulocontactame{
-    font-size: 2.3rem;
+       font-size: 2.3rem;
     }
    .pcontacto{
        font-size:medium ;
    }
+   .inputnombre{
+       width: 170%;
+    }
+    .inputemail{
+        width: 170%;
+    }
+    .redondeado{
+        width: 170%;
+    }
    .tituloescribime{
-    font-size: 1.6rem;
+        font-size: 1.6rem;
     }
     #iconos-footer-dos{
         margin: 0 1.10rem;
@@ -491,9 +513,15 @@ footer{
     .contenedoralguien .virgilio2{
         font-size: 1.2rem;
     }
+    .mititulo{
+        font-size: 1.6rem;
+    }
+    .mitexto{
+        font-size: small;
+    }
     .cajacontactame{
         min-width: 50%;
-        margin: 0;
+        margin-left: 10px;
     }
     .titulocontactame{
         font-size: 2rem;
@@ -511,6 +539,9 @@ footer{
         width: 180%;
     }
     .inputemail{
+        width: 175%;
+    }
+    .redondeado{
         width: 175%;
     }
 }
