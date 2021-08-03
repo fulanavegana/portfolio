@@ -315,6 +315,7 @@ figure{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     margin-left: 1.25em;
+    font-size: medium;
 }
 .link-redes:hover{
     color: #FFBD9B;
@@ -441,6 +442,9 @@ footer{
     .presentacion{
         display: block;  
     }
+    .miimagen{
+        margin-top: 50px;
+    }
     .escribimeycontactame{
         width: 100%;
         flex-direction: column;
@@ -531,6 +535,9 @@ footer{
     }
     .tituloescribime{
         font-size: 1.3rem;
+    }
+    .link-redes{
+        font-size: small;
     }
     #iconos-footer-dos{
         margin: 0 1rem;
